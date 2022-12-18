@@ -1,0 +1,37 @@
+
+p {
+    font-size: 26px;
+
+}
+table {
+    border: 1px dashed red
+}
+#head {
+    color: white;
+    background-color: black
+
+}
+.main-header{
+    color: green
+}
+h1 {
+    color: red
+}
+#hello-h2 {
+    background-color:purple;
+    padding: 28px;
+    border: 2px solid black;
+    margin: 30px;
+
+}
+#hello-h3 {
+    width: 300px;
+    background-color:yellow;
+    padding: 10px 20px 58px 50px;
+    border-left: 2px solid green ;
+    border-bottom: 2px solid black;
+    margin: 30px;
+    box-shadow: 5px 10px;
+    color:aqua;
+    
+}
